@@ -1,5 +1,7 @@
 # CONTRIBUTORS
 
+-[@millz83](https://github.com/millz83)
+
 - [@0xaj](https://github.com/0xaj)
 
 - [@17Piyush](https://github.com/17Piyush/)
@@ -520,7 +522,7 @@
 
 - [@NABILFIKRI99](https://github.com/NABILFIKRI99)
 
-- [@NABILFIKRI99](https://github.com/NABILFIKRI99) 
+- [@NABILFIKRI99](https://github.com/NABILFIKRI99)
 
 - [@NPersivale](https://github.com/NPersivale)
 
@@ -872,7 +874,7 @@
 
 - [@abarac24](https://github.com/abarac24)
 
-- [@abarac24](https://github.com/abarac24) 
+- [@abarac24](https://github.com/abarac24)
 
 - [@abeardofbees](https://github.com/abeardofbees/)
 
